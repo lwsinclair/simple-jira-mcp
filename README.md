@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/maximepeabody-simple-jira-mcp-badge.png)](https://mseep.ai/app/maximepeabody-simple-jira-mcp)
+
 # Jira MCP Server
 
 A Simple Model Context Protocol (MCP) server that allows AI assistants to interact with Jira. This server enables AI to perform actions like:
